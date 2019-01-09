@@ -2,4 +2,4 @@
 This toolbox is built for analyzing results from COMCOT tsunami modeling.
 
 # Code Descriptions
-plot_gaugemap.m -> Plot the gauge locations.
+1. plot_gaugemap.m -> Plot the gauge locations.
